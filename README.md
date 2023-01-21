@@ -1,2 +1,2 @@
 # tindog (Course Project)
-Built using Bootstrap just for practice and be handy with bootstrap.
+Built using Bootstrap just for practice and to become handy with bootstrap.
